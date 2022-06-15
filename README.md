@@ -21,3 +21,18 @@ password: 12345678
   For Customer:
   username: test
   password: test
+  ```
+  
+  **Upcoming Changes**
+  ```bash
+  More Clean Codes...
+  User Interface improvements...
+  Hashed Passwords...
+  Dockerized Database...
+  
+  stay tuned !
+  
+  ```
+
+  
+ 
